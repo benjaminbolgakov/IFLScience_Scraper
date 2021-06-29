@@ -1,3 +1,2 @@
 # IFLScience_Scraper
-Small script that scrapes the site http://iflscience.com - automatic!
-[IFLScience](http://github.com)
+Small script that scrapes the site [IFLScience](http://github.com)
